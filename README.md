@@ -1,0 +1,2 @@
+# SpamApp
+App for School
