@@ -10,7 +10,7 @@ const startupDB = function () {
     // Set connection string
     // const uri = `mongodb+srv://${MONGO_USER}:${MONGO_PASSWORD}@cc-forum.4k1nv.mongodb.net/${MONGO_DB}?retryWrites=true&w=majority`
 
-    const uri = 'mongodb://localhost/vidly';
+    const uri = 'mongodb://localhost/spamApp';
 
     // Connection options
     const options = {

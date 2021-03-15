@@ -17,7 +17,7 @@ startupDB()
 
 // Startup routes
 const app = express()
-// startupRoutes(app)
+startupRoutes(app)
 
 // Run server
 const PORT = process.env.PORT || 4000
